@@ -1,0 +1,30 @@
+.brand {
+    background-color: #292a2b;
+    text-align: center;
+    color:#fff;
+
+}
+
+.banner {
+    background-image: url("../images/beansmain.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30vh;
+    width: 100vh;
+}
+
+.main-banner {
+    color: white;
+    margin-left: 40vw;
+}
+
+input[type="text"] {
+    background-color: #acd1ef;
+}
+
+.logo {
+    width: 20%;
+    display: block;
+    margin: 5%;
+}
